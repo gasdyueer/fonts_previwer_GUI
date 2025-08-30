@@ -7,6 +7,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
 [![PySide6](https://img.shields.io/badge/PySide6-6.4+-green.svg)](https://pypi.org/project/PySide6/)
 
+![GUI](./GUI.png)
 一个功能强大的多字体预览GUI应用程序，使用PySide6构建，支持系统字体浏览、搜索、实时预览和多种预览模式切换。
 
 ## ✨ 功能特性
