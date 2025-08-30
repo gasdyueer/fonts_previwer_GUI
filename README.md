@@ -37,8 +37,8 @@
 
 ### 1. 克隆项目
 ```bash
-git clone <repository-url>
-cd fonts-previwer-gui
+git clone https://github.com/gasdyueer/fonts_previwer_GUI.git
+cd fonts_previwer_GUI
 ```
 
 ### 2. 创建虚拟环境（推荐）
@@ -107,7 +107,7 @@ python main.py
 
 ### 项目结构
 ```
-fonts-previwer-gui/
+fonts_previwer_GUI/
 ├── main.py          # 主应用程序文件
 ├── pyproject.toml   # 项目配置和依赖
 ├── .python-version  # Python版本要求

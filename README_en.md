@@ -36,8 +36,8 @@ A powerful multi-font preview GUI application built with PySide6, supporting sys
 
 ### 1. Clone the Project
 ```bash
-git clone <repository-url>
-cd fonts-previwer-gui
+git clone https://github.com/gasdyueer/fonts_previwer_GUI.git
+cd fonts_previwer_GUI
 ```
 
 ### 2. Create Virtual Environment (Recommended)
@@ -106,7 +106,7 @@ The application uses three-column layout design:
 
 ### Project Structure
 ```
-fonts-previwer-gui/
+fonts_previwer_GUI/
 ├── main.py          # Main application file
 ├── pyproject.toml   # Project configuration and dependencies
 ├── .python-version  # Python version requirements
