@@ -1,0 +1,9 @@
+[project]
+name = "fonts-previwer-gui"
+version = "0.1.0"
+description = "PySide6多字体预览GUI应用"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "PySide6"
+]
